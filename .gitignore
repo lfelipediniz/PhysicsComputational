@@ -1,0 +1,4 @@
+.venv/
+.cursor/
+.claude/
+convert.py
